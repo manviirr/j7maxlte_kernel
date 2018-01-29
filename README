@@ -1,0 +1,14 @@
+ 
+J7 Max kernel source
+mt6757
+
+Code is based on the G615FXXU1AQL1 release (December Security Patch Update) 
+
+Stock kernel for j7maxlte(g615f) 
+
+Kernel is fully working even if compiled as it is.
+
+Indian Variant
+j7maxlte_kernel/arch/arm64/boot/dts/mediatek/mt6757_j7maxlte_swa_ins_05.dts 
+ 
+ --------------------------------------------------------------------------------------------------
